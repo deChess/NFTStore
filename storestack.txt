@@ -1,5 +1,3 @@
-# NFT Store for DeChess
-
 Smart Contracts by Mol LeArt. twitter: @MolLeArt
 Mol LeArt is a versatile DAO NFT Platform which features Fractional Ownership, Royalties, Social Coins, Collaborator Splits, Transaction Fees and a MultiSig Wallet.
 
@@ -13,5 +11,19 @@ The Admin page gives us the ability to alter transaction fees, whitelist creator
 The Profile page is where the minters can edit their avatar pic and social media links.
 
 Moralis is used in place of a regular database and offers up a lot of on chain data options for us.
+
+
+
+
+
+
+
+
+That's my info do whatever you want with it. The one thing I'm really keen for is the info about Mol LeArt being in there somewhere.
+They have an actual but small community, I'll be keen to report about this project to them, I've told them I'm working on it. But anyway there's a bit of instant community for us if we want.
+ 
+
+
+
 
 
